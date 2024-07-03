@@ -10,17 +10,18 @@ I'm Adipati, Frontend Developer.
 - 📫 Reach out to me directly through my [Instagram](https://instagram.com/adipati27ma), [Twitter](https://twitter.com/adi_loc30) or email adipati27ma@gmail.com.
 - ⚡ Fun fact: I am a musician :D
 
-### Github Stats
+<h3 align="center">Github Stats</h3>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=adipati27ma&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=1a4bed&text_color=000000&icon_color=1A4BED&locale=">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&layout=compact&title_color=1a4bed&text_color=000000&icon_color=FF6C00&locale=" alt="adipati27ma" />
 -->
 
-<p margin>
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=adipati27ma&theme=default&show_icons=true&hide_border=true&count_private=true&custom_title=My%20stats%20around%20here" alt="adipati's stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&theme=default&show_icons=true&hide_border=true&layout=compact" alt="adipati's stats" />
 </p>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adipati27ma&theme=default&hide_border=true" alt="adipati's stats" />
-
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adipati27ma&theme=default&hide_border=true" alt="adipati's stats" />
+</p>
 <!-- ![adipati27ma's Stats](https://github-readme-stats.vercel.app/api?username=adipati27ma&theme=default&show_icons=true&hide_border=true&count_private=true&custom_title=My%20stats%20around%20here)
 ![adipati27ma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![adipati27ma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adipati27ma&theme=default&hide_border=true)
