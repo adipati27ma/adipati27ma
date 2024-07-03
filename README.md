@@ -11,7 +11,7 @@ I'm Adipati, Frontend Developer.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a musician :D
 
-## Github Stats
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=adipati27ma&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=1a4bed&text_color=000000&icon_color=1A4BED&locale=">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&layout=compact&title_color=1a4bed&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" />
 
