@@ -16,3 +16,5 @@ I'm Adipati, Frontend Developer.
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&layout=compact&title_color=1a4bed&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" />
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+<p align="center"> ![](https://komarev.com/ghpvc/?username=adipati27ma&color=1A4BED&style=flat-square) </p>
