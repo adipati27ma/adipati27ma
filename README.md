@@ -26,4 +26,4 @@ I'm Adipati, Frontend Developer.
 -->
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adipati27ma&color=1A4BED&style=flat-square" alt="adipati27ma" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adipati27ma&color=blue&style=flat-square" alt="adipati27ma" /> </p>
