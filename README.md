@@ -8,7 +8,6 @@ I'm Adipati, Frontend Developer.
 - 👯 I’m looking to collaborate on **Website**/**Mobile** Dev using **C# (Blazor)**, **Javascript** (ReactJS & NextJS preferable), **Laravel**, **Flutter**.
 - 💬 Ask me about **Frontend** and **Mobile** (**React Native**, **Flutter**) Development.
 - 📫 Reach out to me directly through my [Instagram](https://instagram.com/adipati27ma), [Twitter](https://twitter.com/adi_loc30) or email adipati27ma@gmail.com.
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a musician :D
 
 ### Github Stats
