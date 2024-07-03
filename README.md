@@ -15,12 +15,11 @@ I'm Adipati, Frontend Developer.
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&layout=compact&title_color=1a4bed&text_color=000000&icon_color=FF6C00&locale=" alt="adipati27ma" />
 -->
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adipati27ma&theme=default&hide_border=true" alt="adipati's stats" />
 <p margin>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=adipati27ma&theme=default&show_icons=true&hide_border=true&count_private=true&custom_title=My%20stats%20around%20here" alt="adipati's stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&theme=default&show_icons=true&hide_border=true&layout=compact" alt="adipati's stats" />
 </p>
-
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adipati27ma&theme=default&hide_border=true" alt="adipati's stats" />
 
 <!-- ![adipati27ma's Stats](https://github-readme-stats.vercel.app/api?username=adipati27ma&theme=default&show_icons=true&hide_border=true&count_private=true&custom_title=My%20stats%20around%20here)
 ![adipati27ma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&theme=default&show_icons=true&hide_border=true&layout=compact)
