@@ -24,6 +24,6 @@ I'm Adipati, Frontend Developer.
 ![adipati27ma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipati27ma&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![adipati27ma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adipati27ma&theme=default&hide_border=true)
 -->
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adipati27ma&color=blue&style=flat-square" alt="adipati27ma" /> </p>
