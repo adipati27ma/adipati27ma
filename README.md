@@ -8,7 +8,7 @@ I'm Adipati, Frontend Developer.
 - 👯 I’m looking to collaborate on **Website**/**Mobile** Dev using **C# (Blazor)**, **Javascript** (ReactJS & NextJS preferable), **Laravel**, **Flutter**.
 - 💬 Ask me about **Frontend** and **Mobile** (**React Native**, **Flutter**) Development.
 - 📫 Reach out to me directly through my [Instagram](https://instagram.com/adipati27ma), [Twitter](https://twitter.com/adi_loc30) or email adipati27ma@gmail.com.
-- ⚡ Fun fact: I was a marching band player (for 8 years), and marching band is one of the competitive sports :D
+- ⚡ Fun fact: I used to be a marching band player for 8 years (locomotive mb & spdc unpad). That sport was highly competitive :D
 
 ### Github Stats
 <!-- comments -->
