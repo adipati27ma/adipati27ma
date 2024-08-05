@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Adipati, Frontend Developer.
+I'm Adipati, Software Developer.
 </p>
 
 - 🔭 I’m currently working on some Frontend Development Projects.
