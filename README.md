@@ -5,7 +5,7 @@ I'm Adipati, Software Engineer.
 
 - 🔭 I’m currently working on some Frontend Development & Java Microservices Projects.
 - 🌱 I’m currently learning deeply about **Java**, **Microservices**, and **Software Architecture**.
-- 📚 I used to work on mastering ReactJS, NextJS, VueJS, Laravel, and Golang.
+- 📚 I used to work on mastering ReactJS, NextJS, VueJS, Laravel, CodeIgniter, and Golang.
 - 👯 I’m looking to collaborate on **Website**/**Mobile** Dev using **C# (Blazor)**, **Javascript Frameworks**, **Laravel**, **Flutter**.
 - 💬 Ask me about **Frontend** and **Mobile** (**React Native**, **Flutter**) Development.
 - 📫 Reach out to me directly through my [Instagram](https://instagram.com/adipati27ma), [Twitter](https://twitter.com/adi_loc30) or email adipati27ma@gmail.com.
